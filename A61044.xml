@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech without doors made by a plebean to his noble friends.</title>
+            <author>Plebean.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61044</idno>
+            <idno type="STC">Wing S4874</idno>
+            <idno type="STC">ESTC R37582</idno>
+            <idno type="EEBO-CITATION">16976225</idno>
+            <idno type="OCLC">ocm 16976225</idno>
+            <idno type="VID">105596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech without doors made by a plebean to his noble friends.</title>
+                  <author>Plebean.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Duties.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:105596:1" rendition="simple:additions"/>
+            <head>A SPEECH WITHOUT DOORS, Made by a PLEBEAN, TO HIS Noble Friends.</head>
+            <p>
+               <hi>PARLIAMENTS</hi> have been wont to take up ſome ſpace at the firſt Meetings, to ſettle the Houſe, and to determine of <hi>
+                  <g ref="char:V">Ʋ</g>nlawful Elections,</hi> and in this point they never had greater cauſe to be Circumſpect, than at this time: For by an Abuſe lately crept in, there is introduced a Cuſtome, which if it be not ſeen and prevent<g ref="char:EOLhyphen"/>ed, will be a great derrogation of the Honour, and a weakning of the power of your Houſe, where the Law giveth a freedom to Corporations, to Elect Burgeſſes, and forbid<g ref="char:EOLhyphen"/>deth any indirect courſe to be taken in their Elections, many of the Corporations are ſo baſe minded, and timerous, that they will not hazard the Indignation of a Lord Lieute<g ref="char:EOLhyphen"/>nants Letter, who underhand ſticks not to Threaten them, if he hath not the Election of the Burgeſſes, and not they themſelves.</p>
+            <p>And commonly thoſe that the Lords recommend, are ſuch as deſire it for Protection, or are ſo ignorant of the place they ſerve for, as that there being occaſion to ſpeak of the Corporation, for which they are choſen, they have asked their Neighbours ſitting by, whether it were a Sea, or a Land Town?</p>
+            <p>The next thing that is required, is, <hi>Liberty of Speech,</hi> without which Parliaments have little force or power; Speech begets doubts, and Reſolves them; and doubts in Speech<g ref="char:EOLhyphen"/>es beget underſtanding; He that doubts much, asketh often, and learns much; and he that fears the worſt; ſooneſt prevents a miſchief.</p>
+            <p>This priviledge of Speech, is antiently granted by the Teſtimony of <hi>Phillip Cominus,</hi> a ſtranger, who preferrs our Parliaments, and the Freedom of the Subject in them, above all other Aſſemblies; which Freedom, if it be broken or diminiſhed, is negligently loſt ſince the Days of <hi>Cominus.</hi>
+            </p>
+            <p>If Freedom of Speech ſhould be prohibited, when Men with modeſty make repetition of the Grievances and Enormities of the Kingdom; when Men ſhall deſire Reformation of the wrongs and injuries committed, and have no relation of evil thoughts to His Ma<g ref="char:EOLhyphen"/>jeſty, but with open heart and zeal expreſs their dutiful and reverent reſpect to him and his Service: I ſay, if this kind of Liberty of Speech be not allowed in time of Parliaments, they will extend no fartther than to Quarter-Seſſions, and their Meetings and Aſſemblies will be unneceſſary, for all means of diſorder new crept in, and all Remedies and Re<g ref="char:EOLhyphen"/>dreſſes will be quite taken away.</p>
+            <p>As it is no manners to conteſt with the King in his Election of his Councellors and Ser<g ref="char:EOLhyphen"/>vants, (for Kings obey no Men, but their Laws,) ſo were it a great Negligence, and part of Treaſon, for a Subject not to be free in Speech againſt the Abuſes, Wrongs and Offen<g ref="char:EOLhyphen"/>ces, that may be occaſioned by perſons in Authority. What Remedy can be expected from a Prince to a Subject, if the Enormities in his Kingdom be concealed from him: Or what King ſo Religious and juſt in his own Nature, that may not hazard the loſs of the Hearts of his Subjects, without this Liberty of Speech in Parliament? For ſuch is the misfortune of moſt Princes, and ſuch is the unhappineſs of Subjects where Kings Affections are ſetled, and their Loves ſo far tranſported to promote Servants, as they only truſt and credit what they ſhall inform.</p>
+            <pb n="2" facs="tcp:105596:2"/>
+            <p>In this Caſe, what Subject dares Complain or what Subject dares contradict the words or Actions of ſuch a Servant, if it be not Warranted by Freedom of a Parliament, they ſpeaking with Humility? for nothing obtaineth Favour with a King, ſo much as diligent Obedience.</p>
+            <p>The ſureſt and ſafeſt way betwixt the King and his people, which hath leaſt ſcandal of partiality, is, with Indifference, and Integrity and ſincerity, to examine the Griev<g ref="char:EOLhyphen"/>ances of the Kingdom, without touching the perſon of any Man, further than the Cauſe giveth the Occaſion: For otherwiſe, you ſhall Conteſt with him that hath the Princes Ears open to hearken to his inchanting Tongue; he informs ſecretly, when you ſhall not be admitted to Excuſes, he will caſt your deſerved Malice againſt him, to your Contempt againſt the King; and ſo will make the Prince the ſhield of his Revenge.</p>
+            <p>Theſe are the ſiniſter practiſes of ſuch Servants to deceive their Soveraigns, when our Grievances ſhall be Authentically proved, and made manifeſt to the World by your pains to Examine, and Freedom to Speak. No Prince can be ſo affectionate to a Servant, or ſuch an Enemy to himſelf, as not to admit of this indifferent proceeding: If his ſervices be allowable and good, they will appear with Glory; if bad, your Labour ſhall deſerve thanks both of Prince and Country.</p>
+            <p>When Juſtice ſhall thus ſhine, people will be animated to ſerve their King with Integri<g ref="char:EOLhyphen"/>ty; for they are naturally inclined to imitate Princes in good and bad.</p>
+            <p>The Words of <hi>Cicero</hi> will then appear, That <hi>Malicious and evil Men make</hi> Princes <hi>poor, and one perfect good Man is able to make a Realm rich.</hi>
+            </p>
+            <p>There is no Remedy left for miſ-reports, but a freedom of Speech in Parliament. For there is no Wiſe Man that ſpeaks, but knows what, and when to ſpeak, and how to hold his peace. Whilſt Subjects Tongues are tyed, for fear they may reach him a rap whoſe Conſcience crys Guilty; the King and his people are kept from underſtanding one ano<g ref="char:EOLhyphen"/>ther; the Enemy is heartned abroad, and the malignant humour of Diſcontentment nou<g ref="char:EOLhyphen"/>riſhed at home, and all for one who is like a Dragon, that bites the Ear of the Elephant, becauſe he knows the Elephant cannot reach him with his Trunk; and Princes are abuſed by falſe Reports whiſpered in their Ears by Sycophants and Flatterers.</p>
+            <p>
+               <hi>Diogenes</hi> being asked what Beaſt bit ſoreſt? anſwered, <hi>Of Wild Beaſts the</hi> Back-biter; <hi>of Tame the</hi> Flatterer.</p>
+            <p>Now to deſcend to Grievances which are of two kinds; ſome concerning the Kingdom in general, ſome in particular, which have relation to the general.</p>
+            <p>
+               <hi>Grievances in general,</hi> are ſo many in number, as will ſerve for every Member of the Houſe to preſent two a piece to your Views: and I will preſume ſo far to rank my ſelf with you, as to tender the number of Two unto your Conſideration.</p>
+            <p>My firſt Complaint is <hi>of Titles of Honour;</hi> and in Two Kinds.</p>
+            <p>
+               <hi>Firſt,</hi> In reſpect of the parties themſelves, their Eſtates and Parentage.</p>
+            <p>
+               <hi>Secondly,</hi> In reſpect of the manner of their attaining thereunto, which is Mercenary, Baſe, and Corrupt, which in Reaſon ſhould not hold: for by Law the Conſideration is unlawful.</p>
+            <p>
+               <hi>Trajanus</hi> commended <hi>Plutarch</hi> for his Precepts in School, when he Taught that <hi>Men ſhould Labour to deſerve Honour, but avoid the getting of it baſely:</hi> for if it were Reputation to have it by Deſert, it were Infamy to buy it for Money. In that Age where Rich Men were Honoured, Good Men were Deſpiſed.</p>
+            <p>Honour is not to be valued according to the vulgar opinion of Men, but prized and e<g ref="char:EOLhyphen"/>ſteemed as the Sir-name of Virtue, ingendred in the mind; and fuch Honour no King can give, or Money can purchaſe. He that will ſtrive to be more Honourable than others, muſt abandon Paſſion, Pride, and Arrogancy; ſo that his Virtue may ſhine above others. For Honour conſiſts not in the Title of a Lord, but in the opinion people have of their Virtue, for it is much more Honour to deſerve, and not to have, than to have it, and not deſerve it.</p>
+            <p>There is one of Three things, that commonly cauſeth Mans Advancement, Deſert, Favour, and Power.</p>
+            <p>The firſt makes a Man worthy of it, the other Two are but Abuſes: for Favour is but a blind Fortune, an Ounce of which at Court, is better than a pound of Wiſdom: For<g ref="char:EOLhyphen"/>tune never favoureth, but flattereth; ſhe never promiſeth, but in the end ſhe deceiveth; ſhe never raiſeth, but ſhe caſteth down again. And this Advancement is meeter to be cal<g ref="char:EOLhyphen"/>led Luck, than Merit.</p>
+            <p>That Honour that is compaſſed by power, takes unto it ſelf Liberty, and deſires not to be governed by Wiſdom, but Force. It knows not what it deſireth, nor hath a feeling of any Injury: It is neither moved with ſweet Words, nor pittiful Tears; ſuch Men leave not to do evil, becauſe they have a deſire to it, but when their power faileth to do it.</p>
+            <p>The true Honour among the honourableſt, is, where Fortune caſts down, where there is no fault: but it is Infamy where Fortune raiſeth, where there is no Merit.</p>
+            <pb n="3" facs="tcp:105596:2"/>
+            <p>Examine the ſtate and condition of Men raiſed to Honour theſe Twenty Years paſt, and whether it be Deſert, Favour, or Power that hath preferred them.</p>
+            <p>Enter into the Miſchief the Kingdom hath ſuffered, and doth ſuffer by it, and the cauſe of his Majeſties great Wants will ſoon appear: If you collect with your ſelves how many hungry Courtiers have been raiſed to the higheſt top of Honour.</p>
+            <p>After this Examine their Princely Expence in theſe Twenty Years, their Eſtates in pre<g ref="char:EOLhyphen"/>ſent, and what is requiſite to maintain them in their future degrees of Honour, to them<g ref="char:EOLhyphen"/>ſelves and their poſterity, and you ſhall find His Majeſties Annual Revenues conſumed and ſpent upon thoſe unworthy perſons. Beſides the impairing and impoveriſhing the State, it brings with it the contempt of greatneſs and Authority, it breeds an inward malice in Gentlemen better deſerving of their Country, and better able to maintain the degree of Honour without charge to King or Kingdom, and whoſe Houſes and Alliances may better challenge it than the beſt of them.</p>
+            <p>The Character of a Covetous Man is, That he getteth his Goods with Care, and En<g ref="char:EOLhyphen"/>vy of his Neighbours, with Sorrow to his Enemies, with Travel to his Body, with Grief to his Spirit, with Scruple to his Conſcience, with Danger to his Soul, with Suit to his Children, and Curſe to his Heirs: His deſire is to live Poor, and to dye Rich; but as theſe Vices are made Vertues, even ſo is he honoured for them with Titles of Nobility.</p>
+            <p>When <hi>Phillip</hi> the Second, King of <hi>Spain,</hi> entred with Arms upon his Kingdom of <hi>Por<g ref="char:EOLhyphen"/>tugal,</hi> and tho' with his Sword he might have made fitting Laws; yet were there ſome few Priviledges which the <hi>Portugals</hi> beſought they might enjoy, one whereof was, That the King would make no Unworthy Perſon Noble, or without their Approbation, which was granted them, and to this day they hold their Freedom, which keeps that Kingdom in the ancient State, Honour, and Dignity; (that is to ſay) two Dukes, one Marqueſs, and eighteen Earls: And thus much for the point of Honour.</p>
+            <p>The ſecond Grievance I will recommend to your view is, <hi>The Carriage of our Wars;</hi> the exceſſive Charges vainly ſpent therein, the Unworthineſs of the People imployed, the Grave and Experienced neglected, the Deſigns not warranted by Reaſon and Direction, and the Executions worſe performed; with many other Circumſtances that depend upon it.</p>
+            <p>I muſt crave leave to declare the Property and Condition of Impoſtures, and deceivers of Princes.</p>
+            <p>
+               <hi>Abuſers of Princes</hi> are they that perſwade them to War, to become Poor when they may live in Peace, and become Rich; when they may be Loved, cauſe them to be hated; when they may enjoy their Lives ſurely, put them in hazard of Croſs Fortune raſhly; And laſtly, having neceſſity to uſe their Subjects, put them into that neceſſity, as they refuſe to do for Him: All this is the Pride of the Perſwader, as <hi>Socrates</hi> ſaith.</p>
+            <p>The firſt Leſſening of the Greatneſs of the <hi>Roman</hi> Empire, was by the Inſolence of Souldiers; and the firſt raiſing of the <hi>Ottoman</hi> Houſe, was by Permiſſion and Conniving at his Army.</p>
+            <p>
+               <hi>England</hi> with ſmall Charge, can raiſe what Men His Majeſty pleaſeth to command, and that ſuddenly, and Diſcharge them again without trouble or charge as quickly. <hi>England</hi> wants no good and able men if His Majeſty had occaſion to uſe them: The Wiſe men of <hi>England</hi> would have thought Two or Three hundred Thouſand pounds better ſpared, than thus waſtfully Conſumed, and Diſorders committed; we may compute it to that Sum, and yet keep our ſelves within compaſs: And notwithſtanding, the want of Money, and the ways to Exact it on the Subject, is all the Song now ſung: He that ſees and com<g ref="char:EOLhyphen"/>plains of the Evil managing of things, is either Impriſon'd, Baniſh'd the Court, or cen<g ref="char:EOLhyphen"/>ſur'd for a Diſcontent.</p>
+            <p>There is no <hi>Engliſh</hi>-man but knoweth the Heart of every other true <hi>Engliſh</hi>-man, and with one conſent will all obey our Prince, and to his Perſon we owe all due Reverence; and we may truly ſay, no King is more happy in Subjects for their Love, nor no Subjects readier to ſerve their King with their Purſes and Perſons; nor never people were better bleſt with a King.</p>
+            <p>Falſe Informers and Miſguiders of good Kings are much more Perilous, than if Princes themſelves were Evil; for commonly as Worms breed ſooneſt in ſoft and ſweet Wood, ſo are the beſt Natures, inclined to Honour and Juſtice, ſooneſt abuſed by falſe Flatterers.</p>
+            <p>The Evil they commit under the Authority of good Princes, is accounted as done by the Prince himſelf; but commonly ſuch people in the end pay for it; for he that deſires not to do Good, cannot be Wiſe, but will fall into four thouſand Follies.</p>
+            <p>One of the firſt Propoſitions made to the Houſe, will be for Money to Support His Majeſties vaſt Expence at this time, that the Enemy threatens Thunder againſt the King<g ref="char:EOLhyphen"/>dom. Your often Alarums upon ſuch pretences, may make you now too ſecure; for true it is, that the laſt Parliament Books were publiſhed of Invincible preparations, intended againſt us, and nothing came of it. But beware that you be not deceived by an Old ſay<g ref="char:EOLhyphen"/>ing,
+<pb n="4" facs="tcp:105596:3"/>That when one uſually tells Lyes, he is not truſted when he ſpeaks Truth; for cer<g ref="char:EOLhyphen"/>tainly the danger is more than by the power and greatneſs of another Enemy.</p>
+            <p>In this Caſe you muſt give for your own ſakes, that ſo you may be ſure to enjoy what is yours; for your Soveraigns ſake, to maintain his Greatneſs and State; and for your Countries ſake, to keep it from Oppreſſion of the Enemy; but withal, you ought to lay down the Condition of the Kingdom, and to ſhew that your Neceſſity cannot run paralel with your Hearts and your Deſires; that your minds will be carried with a willingneſs to give, but your Hands will keep back your Hearts for want of Ability to give.</p>
+            <p>
+               <hi>Themiſtocles</hi> demanding Tribute of the <hi>Athenians,</hi> told them he brought two Gods with him, that is to ſay, <hi>Perſwaſion</hi> and <hi>Violence;</hi> They anſwered, that they had two other Gods in their Country, both great and powerful, which were <hi>Poverty</hi> and <hi>Impoſſibility,</hi> which hindred them from giving.</p>
+            <p>We may truly ſay, That God hath ſo placed and Sealed this Iſle of <hi>England,</hi> that nothing but Evil Council can hurt it. But true it is, Advice that is not warranted from Wiſe Men, may prove more forcible and perilous than the power of an Enemy.</p>
+            <p>The Scripture telleth us, That <hi>the Thought periſheth that taketh not Council.</hi>
+            </p>
+            <p>A King of the <hi>Lacedemonians</hi> asked how a Kingdom might ever ſtand, and was anſwer<g ref="char:EOLhyphen"/>ed, Two ways; If a King take Counſel of Wiſe Honeſt men, and they ſpeak freely; and do Juſtice Uprightly.</p>
+            <p>There was never Cenſor that Judged, Senator that Ordered, Emperour that Com<g ref="char:EOLhyphen"/>manded, Council that Executed, Orator that perſwaded, nor any other Mortal man, but ſometimes he committed Errors, and deſerved either blame or puniſhment for his Miſ<g ref="char:EOLhyphen"/>doings, and if he were Wiſe, deſired Advice what to do.</p>
+            <p>St. <hi>Gregory</hi> ſaith, No man can give ſo faithful Council as he who loves one more than his Gifts; Then who are or can be ſo true Counſellours to our Noble King, as a Houſe of Commons that hath no Relation to a Kings Gift, but only to his Honour, flouriſhing Eſtate and ſafety?</p>
+            <p>This is the time to amend Evil Counſels paſt, and to let Evil Counſellours ſee their Errors.</p>
+            <p>This is the time for all men to put to their helps, ſome with their Hands to Fight, o<g ref="char:EOLhyphen"/>thers with their Advice to Counſel; and for my Advice it is this:</p>
+            <p>
+               <hi>That you preſent to His Majeſty in all Humbleneſs, your Willing mind and hearts, to Repair and fit to Sea, His Majeſties Navy, your ſelves to have power to make them able and Serviceable, with the advice of Experienced Men that you may call unto you.</hi> This is a matter of great Importance at this preſent for the ſafety of the King, Realm, and Subject; for the ſtrength of the Kingdom much depends upon this Bulwark, which we may well term <hi>The Walls of</hi> England.</p>
+            <p>His Majeſty will find himſelf much caſed by it, buſineſſes ſhall be carried without his trouble or care. Money ſhall not be ſought for to that end, but provided by you, His Majeſty may diſpoſe of the reſt of his Revenue at his pleaſure.</p>
+            <p>By your Frugality and Husbandry, His Majeſty ſhall have occaſion to judge of things paſt, of yours in preſent, and hereafter it will ſerve for a preſident to walk after; it will ſtop the mouths of Malignant Tongues, that inform His Majeſty of the unwilling<g ref="char:EOLhyphen"/>neſs of the Subject to give; and it will make it apparent, that their true Grief is not in the matter of giving, but to ſee the Evil Imploying of it when it is given.</p>
+            <p>If any man ſhall pervert this good meaning and motion of yours, and inform His Majeſty, <hi>'Tis a Derogation from his Honour to yield to his Subjects upon Conditions.</hi> His Majeſty ſhall have good cauſe to prove ſuch mens eyes malicious and Unthankful, and thereby to diſprove them in all their other Actions: For what can it leſſen the Reputa<g ref="char:EOLhyphen"/>tion of a prince whom the Subject only and wholly obeyeth, that a <hi>Parliament</hi> which His Majeſty doth acknowledge to be his higheſt Council, ſhould adviſe him, and he follow the advice of ſuch a Council? What diſhonour rather were it to be adviſed and ruled by one Counſellour alone, againſt whom there is juſt exception taken of the whole Com<g ref="char:EOLhyphen"/>mon-Wealth?</p>
+            <p>
+               <hi>Marcus Portio</hi> ſaith, That that Common-wealth is Everlaſting, where the Prince ſeeks to get Obedience and Love, and the Subjects to gain the affection of the Prince; and that Kingdom is Unhappy where their prince is ſerved out of ends and hope of Reward, and hath no other aſſurance of them but their Service.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>B. T.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
